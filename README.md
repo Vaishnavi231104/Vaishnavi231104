@@ -5,8 +5,7 @@
 
 
 ### 💫 About Me: 
-- 💻 I enjoy building responsive websites, exploring AI tools, and contributing to open-source projects.
-- 🔭 I’m currently working on Artificial Intelligence and Machine Learning 
+- 💻 I enjoy building responsive websites, exploring AI tools, and contributing to open-source projects. 
 - 🌱 Currently learning:
       Full Stack Web Development, AI/ML, and Data Analytics 
 - ✨ Open-source contributor at GSSoC '24 and SSOC '25
@@ -67,7 +66,7 @@
 
 ### Contact - 📫 How to reach me?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-dwivedi-34068a229)  <br> 💌 or drop a mail at dwivedivaishnavi2311@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-dwivedi-34068a229) 💌 or drop a mail at dwivedivaishnavi2311@gmail.com
 
 ---
 
