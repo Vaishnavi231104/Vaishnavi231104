@@ -1,3 +1,4 @@
+<h1 align="left"> Hi there 👋</h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F70000&width=435&lines=I+am+Vaishnavi+Dwivedi" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
