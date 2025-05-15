@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Artificial Intelligence and Machine Learning 
 - 🌱 Currently learning:
       Full Stack Web Development, AI/ML, and Data Visualization 
-- ✨ Open-source contributor at GirlScript Summer of Code '24 and Social Summer of Code '25
-- 🧠 I'm passionate about turning ideas into impactful, user-centric digital products.
+- ✨ Open-source contributor at GSSoC '24 and SSOC '25
+- 🧠 I'm passionate about turning ideas into impactful digital products.
 - 🎤 I also enjoy public speaking, creative writing, and anchoring tech and cultural events.
 - 🎯 Goals:
 
@@ -63,7 +63,7 @@
 
 ### Contact - 📫 How to reach me?
 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/732130114955116554)<br> 💌 OR Drop A Mail AT dwivedivaishnavi2311@gmail.com
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/732130114955116554) <br> 💌 OR Drop A Mail AT dwivedivaishnavi2311@gmail.com
 
 ---
 
