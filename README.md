@@ -68,7 +68,7 @@
 ### Contact - 📫 How to reach me?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-dwivedi-34068a229) 
-💌 or drop a mail at dwivedivaishnavi2311@gmail.com
+<br> 💌 or drop a mail at dwivedivaishnavi2311@gmail.com
 
 ---
 
