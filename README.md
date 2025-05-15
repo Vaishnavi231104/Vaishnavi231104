@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10) 
 <h1 align="left"> Hi there 👋</h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FFFFFF&width=435&lines=I+am+Vaishnavi+Dwivedi" alt="Typing SVG" /></a> 
-![alt text](https://i.pinimg.com/736x/30/ff/a5/30ffa50b9515128345d999d3fbd73961.jpg)
+<img src ="https://i.pinimg.com/736x/30/ff/a5/30ffa50b9515128345d999d3fbd73961.jpg" alt= "Banner" width= "800"/>)
 
 
 ### 💫 About Me: 
