@@ -12,9 +12,9 @@
 - 🎤 I also enjoy public speaking, creative writing, and anchoring tech and cultural events.
 - 🎯 Goals:
 
-  Secure internships in Web Development or AI-based domains
-  Build a strong portfolio of real-world projects
-  Collaborate with tech communities and open-source teams
+  - Secure internships in Web Development or AI-based domains
+  - Build a strong portfolio of real-world projects
+  - Collaborate with tech communities and open-source teams
 - 🎨 In my free time, you'll find me journaling, designing, learning new tools, or diving into fiction.
   
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
@@ -49,6 +49,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Vaishnavi231104&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaishnavi231104&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vaishnavi231104&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+### Contact - 📫 How to reach me?
+
+![Discord](https://img.shields.io/badge/Asklyn-%237289DA.svg?logo=discord&logoColor=white) <br> 💌 OR Drop A Mail AT dwivedivaishnavi2311@gmail.com
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
