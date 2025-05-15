@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10) 
-<h1 align="left"> Hi there 👋</h1> 
+<h1 align="left"> Hi techies! 👋</h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FFFFFF&width=435&lines=I+am+Vaishnavi+Dwivedi" alt="Typing SVG" /></a> 
 <p align= "center" > <img src ="https://i.pinimg.com/736x/30/ff/a5/30ffa50b9515128345d999d3fbd73961.jpg" alt= "Banner" width= "500"/> </p>
 
@@ -8,7 +8,7 @@
 - 💻 I enjoy building responsive websites, exploring AI tools, and contributing to open-source projects.
 - 🔭 I’m currently working on Artificial Intelligence and Machine Learning 
 - 🌱 Currently learning:
-      Full Stack Web Development, AI/ML, and Data Visualization 
+      Full Stack Web Development, AI/ML, and Data Analytics 
 - ✨ Open-source contributor at GSSoC '24 and SSOC '25
 - 🧠 I'm passionate about turning ideas into impactful digital products.
 - 🎤 I also enjoy public speaking, creative writing, and anchoring tech and cultural events.
@@ -62,6 +62,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vaishnavi231104&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
 ### Contact - 📫 How to reach me?
 
