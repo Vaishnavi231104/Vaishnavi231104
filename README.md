@@ -13,10 +13,10 @@
 - 🎤 I also enjoy public speaking, creative writing, and anchoring tech and cultural events.
 - 🎯 Goals:
 
-  - Secure internships in Web Development or AI-based domains
+  - Secure internships in Big Tech
   - Build a strong portfolio of real-world projects
-  - Collaborate with tech communities and open-source teams
-- 🎨 In my free time, you'll find me journaling, designing, learning new tools, or diving into fiction.
+  - Collaborate and work for social impact
+- 🎨 In my free time, you'll find me journaling, designing, exploring , or diving into fiction.
   
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
